@@ -1,0 +1,2 @@
+This small utility converts all CSV files in a given folder to Excel files with the same name and puts them to the specified output folder.
+Script uses PySide library for GUI and xlwt library for creating and manipulating Excel files.
